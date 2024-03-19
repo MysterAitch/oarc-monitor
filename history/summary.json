@@ -4,36 +4,40 @@
     "url": "https://oarc.uk/",
     "icon": "https://icons.duckduckgo.com/ip3/oarc.uk.ico",
     "slug": "oarc-website",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.67%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 1260,
     "timeDay": 1510,
     "timeWeek": 1930,
     "timeMonth": 1398,
     "timeYear": 1260,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-03-19": 5
+    }
   },
   {
     "name": "OARC Website (`www.`)",
     "url": "https://www.oarc.uk/",
     "icon": "https://icons.duckduckgo.com/ip3/www.oarc.uk.ico",
     "slug": "oarc-website-www",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.78%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 294,
     "timeDay": 265,
     "timeWeek": 313,
     "timeMonth": 301,
     "timeYear": 294,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-03-19": 3
+    }
   },
   {
     "name": "OARC ADSB",
@@ -86,10 +90,10 @@
     "url": "https://cloudlog.oarc.uk/",
     "icon": "https://icons.duckduckgo.com/ip3/cloudlog.oarc.uk.ico",
     "slug": "oarc-cloudlog-root",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.88%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 429,
@@ -97,16 +101,18 @@
     "timeWeek": 435,
     "timeMonth": 412,
     "timeYear": 429,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-03-19": 2
+    }
   },
   {
     "name": "OARC Cloudlog (M0OUK)",
     "url": "https://cloudlog.oarc.uk/M0OUK/",
     "icon": "https://icons.duckduckgo.com/ip3/cloudlog.oarc.uk.ico",
     "slug": "oarc-cloudlog-m0-ouk",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -115,7 +121,9 @@
     "timeWeek": 159,
     "timeMonth": 156,
     "timeYear": 159,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-03-19": 0
+    }
   },
   {
     "name": "OARC Constitution",
