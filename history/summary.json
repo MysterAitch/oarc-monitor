@@ -6,9 +6,9 @@
     "slug": "oarc-website",
     "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "98.54%",
-    "uptimeWeek": "99.79%",
-    "uptimeMonth": "99.95%",
+    "uptimeDay": "98.13%",
+    "uptimeWeek": "99.73%",
+    "uptimeMonth": "99.94%",
     "uptimeYear": "99.99%",
     "time": 1288,
     "timeDay": 1324,
@@ -16,7 +16,7 @@
     "timeMonth": 1374,
     "timeYear": 1288,
     "dailyMinutesDown": {
-      "2024-06-05": 21,
+      "2024-06-05": 27,
       "2024-03-19": 19
     }
   },
@@ -27,9 +27,9 @@
     "slug": "oarc-website-www",
     "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "99.31%",
-    "uptimeWeek": "99.90%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "98.91%",
+    "uptimeWeek": "99.84%",
+    "uptimeMonth": "99.96%",
     "uptimeYear": "99.99%",
     "time": 303,
     "timeDay": 347,
@@ -37,7 +37,7 @@
     "timeMonth": 336,
     "timeYear": 303,
     "dailyMinutesDown": {
-      "2024-06-05": 10,
+      "2024-06-05": 16,
       "2024-03-19": 17
     }
   },
@@ -114,19 +114,19 @@
     "url": "https://cloudlog.oarc.uk/M0OUK/",
     "icon": "https://icons.duckduckgo.com/ip3/cloudlog.oarc.uk.ico",
     "slug": "oarc-cloudlog-m0-ouk",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.59%",
+    "uptimeWeek": "99.94%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
-    "time": 191,
-    "timeDay": 3793,
-    "timeWeek": 1070,
-    "timeMonth": 390,
-    "timeYear": 191,
+    "time": 309,
+    "timeDay": 11176,
+    "timeWeek": 3834,
+    "timeMonth": 1164,
+    "timeYear": 309,
     "dailyMinutesDown": {
-      "2024-06-05": 0
+      "2024-06-05": 6
     }
   },
   {
