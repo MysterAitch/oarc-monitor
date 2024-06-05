@@ -6,9 +6,9 @@
     "slug": "oarc-website",
     "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "97.22%",
-    "uptimeWeek": "99.60%",
-    "uptimeMonth": "99.91%",
+    "uptimeDay": "96.90%",
+    "uptimeWeek": "99.56%",
+    "uptimeMonth": "99.90%",
     "uptimeYear": "99.98%",
     "time": 1288,
     "timeDay": 1324,
@@ -16,7 +16,7 @@
     "timeMonth": 1374,
     "timeYear": 1288,
     "dailyMinutesDown": {
-      "2024-06-05": 40,
+      "2024-06-05": 45,
       "2024-03-19": 19
     }
   },
@@ -27,9 +27,9 @@
     "slug": "oarc-website-www",
     "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "97.99%",
-    "uptimeWeek": "99.71%",
-    "uptimeMonth": "99.93%",
+    "uptimeDay": "97.67%",
+    "uptimeWeek": "99.67%",
+    "uptimeMonth": "99.92%",
     "uptimeYear": "99.99%",
     "time": 303,
     "timeDay": 347,
@@ -37,7 +37,7 @@
     "timeMonth": 336,
     "timeYear": 303,
     "dailyMinutesDown": {
-      "2024-06-05": 29,
+      "2024-06-05": 33,
       "2024-03-19": 17
     }
   },
@@ -76,19 +76,19 @@
     "url": "https://wiki.oarc.uk/",
     "icon": "https://icons.duckduckgo.com/ip3/wiki.oarc.uk.ico",
     "slug": "oarc-wiki",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.85%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.55%",
+    "uptimeWeek": "99.94%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
-    "time": 465,
-    "timeDay": 434,
-    "timeWeek": 472,
-    "timeMonth": 476,
-    "timeYear": 465,
+    "time": 518,
+    "timeDay": 6271,
+    "timeWeek": 1926,
+    "timeMonth": 840,
+    "timeYear": 518,
     "dailyMinutesDown": {
-      "2024-06-05": 2
+      "2024-06-05": 6
     }
   },
   {
@@ -116,19 +116,19 @@
     "url": "https://cloudlog.oarc.uk/M0OUK/",
     "icon": "https://icons.duckduckgo.com/ip3/cloudlog.oarc.uk.ico",
     "slug": "oarc-cloudlog-m0-ouk",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.68%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
-    "time": 339,
-    "timeDay": 10117,
-    "timeWeek": 4144,
-    "timeMonth": 1334,
-    "timeYear": 339,
+    "time": 342,
+    "timeDay": 8325,
+    "timeWeek": 3873,
+    "timeMonth": 1329,
+    "timeYear": 342,
     "dailyMinutesDown": {
-      "2024-06-05": 0
+      "2024-06-05": 5
     }
   },
   {
