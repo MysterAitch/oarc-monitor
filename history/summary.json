@@ -4,19 +4,19 @@
     "url": "https://oarc.uk/",
     "icon": "https://icons.duckduckgo.com/ip3/oarc.uk.ico",
     "slug": "oarc-website",
-    "status": "up",
-    "uptime": "99.96%",
-    "uptimeDay": "92.95%",
-    "uptimeWeek": "98.99%",
-    "uptimeMonth": "99.77%",
-    "uptimeYear": "99.96%",
+    "status": "down",
+    "uptime": "99.97%",
+    "uptimeDay": "93.27%",
+    "uptimeWeek": "99.04%",
+    "uptimeMonth": "99.78%",
+    "uptimeYear": "99.97%",
     "time": 1573,
     "timeDay": 9543,
     "timeWeek": 6031,
     "timeMonth": 3090,
     "timeYear": 1573,
     "dailyMinutesDown": {
-      "2024-06-06": 55,
+      "2024-06-06": 50,
       "2024-06-05": 47,
       "2024-03-19": 19
     }
@@ -28,9 +28,9 @@
     "slug": "oarc-website-www",
     "status": "up",
     "uptime": "99.98%",
-    "uptimeDay": "95.81%",
-    "uptimeWeek": "99.40%",
-    "uptimeMonth": "99.86%",
+    "uptimeDay": "96.11%",
+    "uptimeWeek": "99.44%",
+    "uptimeMonth": "99.87%",
     "uptimeYear": "99.98%",
     "time": 369,
     "timeDay": 3328,
@@ -38,7 +38,7 @@
     "timeMonth": 764,
     "timeYear": 369,
     "dailyMinutesDown": {
-      "2024-06-06": 24,
+      "2024-06-06": 20,
       "2024-06-05": 36,
       "2024-03-19": 17
     }
