@@ -7,8 +7,8 @@
     "status": "down",
     "uptime": "99.85%",
     "uptimeDay": "79.04%",
-    "uptimeWeek": "96.02%",
-    "uptimeMonth": "99.09%",
+    "uptimeWeek": "95.87%",
+    "uptimeMonth": "99.05%",
     "uptimeYear": "99.85%",
     "time": 2290,
     "timeDay": 12125,
@@ -16,7 +16,7 @@
     "timeMonth": 5065,
     "timeYear": 2290,
     "dailyMinutesDown": {
-      "2024-07-11": 119,
+      "2024-07-11": 134,
       "2024-07-10": 282,
       "2024-06-06": 118,
       "2024-06-05": 47,
@@ -31,8 +31,8 @@
     "status": "down",
     "uptime": "99.88%",
     "uptimeDay": "79.86%",
-    "uptimeWeek": "96.72%",
-    "uptimeMonth": "99.24%",
+    "uptimeWeek": "96.57%",
+    "uptimeMonth": "99.21%",
     "uptimeYear": "99.88%",
     "time": 857,
     "timeDay": 6434,
@@ -40,7 +40,7 @@
     "timeMonth": 2619,
     "timeYear": 857,
     "dailyMinutesDown": {
-      "2024-07-11": 114,
+      "2024-07-11": 129,
       "2024-07-10": 216,
       "2024-06-06": 78,
       "2024-06-05": 36,
@@ -84,10 +84,10 @@
     "url": "https://wiki.oarc.uk/",
     "icon": "https://icons.duckduckgo.com/ip3/wiki.oarc.uk.ico",
     "slug": "oarc-wiki",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.89%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 604,
@@ -95,7 +95,9 @@
     "timeWeek": 2105,
     "timeMonth": 951,
     "timeYear": 604,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-07-11": 2
+    }
   },
   {
     "name": "OARC Cloudlog (root)",
@@ -124,18 +126,16 @@
     "slug": "oarc-cloudlog-m0-ouk",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.65%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 573,
-    "timeDay": 7997,
+    "timeDay": 8668,
     "timeWeek": 5044,
     "timeMonth": 2018,
     "timeYear": 573,
-    "dailyMinutesDown": {
-      "2024-07-11": 5
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "OARC Constitution",
