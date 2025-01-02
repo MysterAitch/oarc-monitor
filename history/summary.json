@@ -100,9 +100,9 @@
     "url": "https://wiki.oarc.uk/",
     "icon": "https://icons.duckduckgo.com/ip3/wiki.oarc.uk.ico",
     "slug": "oarc-wiki",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -111,7 +111,9 @@
     "timeWeek": 500,
     "timeMonth": 529,
     "timeYear": 617,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-01-02": 0
+    }
   },
   {
     "name": "OARC Cloudlog (root)",
