@@ -4,9 +4,9 @@
     "url": "https://oarc.uk/",
     "icon": "https://icons.duckduckgo.com/ip3/oarc.uk.ico",
     "slug": "oarc-website",
-    "status": "up",
+    "status": "down",
     "uptime": "99.72%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.66%",
@@ -16,6 +16,7 @@
     "timeMonth": 2905,
     "timeYear": 2427,
     "dailyMinutesDown": {
+      "2025-01-02": 0,
       "2024-11-22": 768,
       "2024-11-21": 75,
       "2024-08-01": 230,
@@ -102,18 +103,16 @@
     "slug": "oarc-wiki",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.34%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 589,
     "timeDay": 528,
     "timeWeek": 516,
     "timeMonth": 532,
     "timeYear": 617,
-    "dailyMinutesDown": {
-      "2025-01-02": 9
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "OARC Cloudlog (root)",
