@@ -13,7 +13,7 @@
     "time": 2286,
     "timeDay": 2650,
     "timeWeek": 2732,
-    "timeMonth": 3338,
+    "timeMonth": 3347,
     "timeYear": 2539,
     "dailyMinutesDown": {
       "2025-01-04": 1110,
@@ -62,9 +62,9 @@
     "url": "https://adsb.oarc.uk/",
     "icon": "https://icons.duckduckgo.com/ip3/adsb.oarc.uk.ico",
     "slug": "oarc-adsb",
-    "status": "up",
+    "status": "down",
     "uptime": "99.35%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.82%",
     "uptimeYear": "99.41%",
@@ -74,6 +74,7 @@
     "timeMonth": 903,
     "timeYear": 848,
     "dailyMinutesDown": {
+      "2025-02-02": 0,
       "2025-01-15": 44,
       "2025-01-04": 33,
       "2024-12-26": 18,
@@ -115,7 +116,7 @@
     "time": 587,
     "timeDay": 374,
     "timeWeek": 482,
-    "timeMonth": 557,
+    "timeMonth": 555,
     "timeYear": 616,
     "dailyMinutesDown": {}
   },
