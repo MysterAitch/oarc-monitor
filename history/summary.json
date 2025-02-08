@@ -105,19 +105,19 @@
     "url": "https://wiki.oarc.uk/",
     "icon": "https://icons.duckduckgo.com/ip3/wiki.oarc.uk.ico",
     "slug": "oarc-wiki",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.59%",
+    "uptimeWeek": "99.94%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 587,
-    "timeDay": 562,
-    "timeWeek": 543,
-    "timeMonth": 553,
+    "timeDay": 495,
+    "timeWeek": 528,
+    "timeMonth": 550,
     "timeYear": 618,
     "dailyMinutesDown": {
-      "2025-02-08": 0
+      "2025-02-08": 6
     }
   },
   {
