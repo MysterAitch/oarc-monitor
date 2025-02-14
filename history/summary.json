@@ -4,9 +4,9 @@
     "url": "https://oarc.uk/",
     "icon": "https://icons.duckduckgo.com/ip3/oarc.uk.ico",
     "slug": "oarc-website",
-    "status": "up",
+    "status": "down",
     "uptime": "99.51%",
-    "uptimeDay": "94.44%",
+    "uptimeDay": "94.43%",
     "uptimeWeek": "97.57%",
     "uptimeMonth": "99.44%",
     "uptimeYear": "99.34%",
@@ -112,9 +112,9 @@
     "slug": "oarc-wiki",
     "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "96.97%",
-    "uptimeWeek": "99.24%",
-    "uptimeMonth": "99.82%",
+    "uptimeDay": "97.36%",
+    "uptimeWeek": "99.29%",
+    "uptimeMonth": "99.84%",
     "uptimeYear": "99.99%",
     "time": 606,
     "timeDay": 1624,
@@ -122,7 +122,7 @@
     "timeMonth": 748,
     "timeYear": 642,
     "dailyMinutesDown": {
-      "2025-02-14": 44,
+      "2025-02-14": 38,
       "2025-02-11": 33
     }
   },
